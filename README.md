@@ -27,7 +27,8 @@ The dashboard helps HR teams understand attrition patterns and identify key rete
 IBM HR Analytics Employee Attrition Dataset
 
 ## Dashboard Preview
-![Dashboard]([Images/dashboard.png](https://github.com/Kuldeep9939/HR-Employee-Attrition-Analysis-Dashboard-Power-BI/blob/main/Screenshot%202026-02-01%20234917.png))
+![Dashboard](https://raw.githubusercontent.com/Kuldeep9939/HR-Employee-Attrition-Analysis-Dashboard-Power-BI/main/Screenshot%202026-02-01%20234917.png)
+
 
 ## Author
 Kuldeep Kumar
